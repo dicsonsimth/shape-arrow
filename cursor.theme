@@ -1,0 +1,5 @@
+[Icon Theme]
+Inherits=shape arrow
+Name = shape arrow
+Example=default
+Inherits=core
